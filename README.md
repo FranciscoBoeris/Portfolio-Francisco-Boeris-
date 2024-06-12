@@ -9,7 +9,7 @@ Francisco Boeris Portfolio
                  
                     My Portfolio: 
                         Skills and Technologies:
-                    I have technical skills such as HTML, CSS, JavaScript, Python, UX/UI design, etc..
+                    I have technical skills such as HTML, CSS, JavaScript, Python, UX/UI design, etc.. inspired by https://dribbble.com/shots/24215702-Personal-Portfolio-Website on the dribble website.
                         Work experience:
                              Granja Zulueta
                                  December 2022-February 2023
