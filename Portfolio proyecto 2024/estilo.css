@@ -189,7 +189,18 @@ footer {
   text-align: center;
   padding: 20px;
 }
-
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    
+  }
+  
+  .contenedor img {
+    max-width: 30%;
+  }
+  
 footer p {
   font-size: 14px;
 }
